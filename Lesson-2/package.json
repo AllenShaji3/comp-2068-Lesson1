@@ -1,0 +1,15 @@
+{
+  "name": "my-first-app",
+  "version": "1.0.0",
+  "description": "doin things",
+  "main": "example-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+   ,"start" : "nodemon example-node.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
